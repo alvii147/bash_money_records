@@ -7,9 +7,10 @@ set incsearch
 
 set autoindent
 set cindent
+set cinkeys-=0#
+set indentkeys-=0#
 set expandtab
 set shiftwidth=4
-set smartindent
 set smarttab
 set softtabstop=4
 
